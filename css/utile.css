@@ -1,0 +1,39 @@
+.position-ab{
+position: absolute;
+}
+.position-rel{
+    position: relative;
+    }
+.margin-bt5{
+    margin-bottom: 5px;
+}
+.margin-bt10{
+    margin-bottom: 10px;
+}
+.margin-bt15{
+    margin-bottom: 15px;
+}
+.margin-bt20{
+    margin-bottom: 20px;
+}
+.margin-bt50{
+    margin-bottom: 50px;
+}
+.align-center{
+    text-align:center
+}
+.align-left{
+    text-align:left
+}
+.align-right{
+    text-align: right;
+}
+.float-left{
+    float: left;
+}
+.display-inblock{
+    display: inline-block;
+}
+.display-block{
+    display: block;
+}
